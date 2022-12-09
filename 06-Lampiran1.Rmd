@@ -1,0 +1,33 @@
+# LAMPIRAN 1
+
+**PENDEKATAN PENILAIAN PROGRAM**
+ 
+Pelaksanaan bengkel ini telah dinilai dari aspek reaksi peserta, pembelajaran peserta dan cadangan penambahbaikan yang diberikan:
+
+**Reaksi Peserta**
+Reaksi peserta merujuk kepada sejauh mana peserta mendapati bengkel ini memberi manafaat, menarik dan relevan kepada mereka (referring to the degree to which participants find the training favourable, engaging and relevant - Kirkpatrick’s Four Levels of Training Evaluation, 2019).Pernyataan yang digunakan untuk mengukur reaksi peserta adalah seperti berikut:
+
+```{r dtt, echo=FALSE, collapse=TRUE, paged.print=TRUE}
+
+dtt= data.frame(Item_Reaksi=c("Penglibatan peserta","Kerelevanan Program"," Teknik Penyampaian Penceramah ", " Tempat Penganjuran Program "," Pengisian Aktiviti "," Cadangan Memperkenalkan Program kepada Rakan"), Penyataan=c("Saya memberikan perhatian yang sepenuhnya sepanjang program ini"," Pengetahuan yang diperoleh dalam program ini amat berguna dalam kehidupan seharian saya"," Teknik penyampaian penceramah memudahkan saya memahami ilmu yang disampaikan"," Tempat penganjuran program ini memberikan keselesaan kepada proses pembelajaran saya"," Aktiviti yang dikendalikan dalam program ini menarik minat saya untuk terus memberikan tumpuan"," Saya akan mencadangkan program ini kepada rakan"))
+
+kbl(dtt, booktabs = T, caption="Pembolehubah Pengukuran Reaksi")%>%
+kable_paper(full_width = F)%>%
+kable_styling(bootstrap_options = "striped",latex_options = "hold_position")%>%
+column_spec(1, width = "5cm") %>%
+column_spec(2, width = "8cm")
+```
+
+**Pembelajaran Peserta**
+Pembelajaran peserta merujuk kepada sejauhmana peserta memperoleh pengetahuan, keyakinan dan komitmen mengamalkan ilmu hasil daripada penyertaan dalam bengkel ini (referring to the degree to which participants acquire the intended knowledge, skills attitude, confidence and commitment based on their participation in the learning - Kirkpatrick’s Four Levels of Training Evaluation, 2019).Pernyataan yang digunakan untuk mengukur pembelajaran peserta adalah seperti berikut:
+
+```{r dtt2, echo=FALSE, collapse=TRUE, paged.print=TRUE}
+dtt2= data.frame(Item_Pembelajaran=c("Pengetahuan Peserta","Keyakinan Peserta","Komitmen Peserta "), Penyataan=c("Pengetahuan saya tentang ilmu yang dipelajari SEBELUM dan SELEPAS menghadiri bengkel"," Keyakinan saya untuk mengamalkan ilmu yang dipelajari SEBELUM dan SELEPAS menghadiri bengkel"," Komitmen saya untuk mengamalkan ilmu yang dipelajari SEBELUM dan SELEPAS menghadiri bengkel"))
+
+kbl(dtt2,booktabs = T,caption="Pembolehubah Pengukuran Pembelajaran")%>%
+kable_paper(full_width = F)%>%
+kable_styling(bootstrap_options = "striped",latex_options = "hold_position")%>%
+column_spec(1, width = "5cm") %>%
+column_spec(2, width = "8cm")
+```
+

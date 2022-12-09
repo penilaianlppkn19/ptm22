@@ -1,0 +1,768 @@
+
+## PROGRAM 2
+
+### Hasil Penilaian Maklumbalas Program
+
+**Profil Peserta**
+
+**Jadual 5: Profil peserta**
+
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:1.0pt solid #A6A6A6;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                &nbsp;
+            </td>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:none;border-right-style:solid;border-top-style:solid;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                <strong>Bilangan</strong>
+            </td>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:none;border-right-style:solid;border-top-style:solid;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                <strong>Peratus</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                Jumlah
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                57
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                100.0
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                <strong>Jantina</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                &nbsp;
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                Lelaki
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                22
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                38.6
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                Perempuan
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                35
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                61.4
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                <strong>Status Perkahwinan</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                &nbsp;
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                Berkahwin
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                34
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                59.6
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                Bercerai / Berpisah
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                10
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                17.5
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                Balu / Duda
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                14.0
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                <strong>Skim Bantuan</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                &nbsp;
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                Bantuan am
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                16
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                28.1
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                Bantuan kanak-kanak
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                29
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                50.9
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:191.15pt;">
+                Elaun orang kurang upaya
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:78.2pt;">
+                14
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:70.9pt;">
+                24.6
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+**Reaksi Peserta Terhadap Pengendalian Program Kepuasan Program**
+
+*Kepuasan Program*
+
+Tahap persetujuan kepuasan peserta terhadap pengendalian program di ukur berdasarkan perkara seperti di Jadual 2.
+
+**Jadual 6: Taburan skor kepuasan program**
+
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:1.0pt solid #A6A6A6;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:77.75pt;" rowspan="2">
+                &nbsp;
+            </td>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:none;border-right-style:solid;border-top-style:solid;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:52.8pt;" rowspan="2">
+                <strong>Purata skor</strong>
+            </td>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:none;border-right-style:solid;border-top-style:solid;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;width:152.75pt;" colspan="4">
+                <strong>Bilangan&nbsp;</strong>
+            </td>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:none;border-right-style:solid;border-top-style:solid;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:174.4pt;" colspan="4">
+                <strong>Peratus</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:39.0pt;">
+                <strong>1</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:35.75pt;">
+                <strong>2</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:35.45pt;">
+                <strong>3</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:42.55pt;">
+                <strong>4</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:42.55pt;">
+                <strong>1</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:42.5pt;">
+                <strong>2</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:42.55pt;">
+                <strong>3</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:46.8pt;">
+                <strong>4</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:77.75pt;">
+                Perhatian
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:52.8pt;">
+                3.63
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:39.0pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.75pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.45pt;">
+                18
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                38
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.5pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                31.6
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:46.8pt;">
+                66.7
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:77.75pt;">
+                Tempat
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:52.8pt;">
+                3.61
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:39.0pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.75pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.45pt;">
+                17
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                38
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.5pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                29.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:46.8pt;">
+                66.7
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:77.75pt;">
+                Cadang
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:52.8pt;">
+                3.65
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:39.0pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.75pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.45pt;">
+                17
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                39
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.5pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                29.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:46.8pt;">
+                68.4
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+> **Ulasan:**
+> Secara keseluruhannya, reaksi peserta program  terhadap pengendalian program adalah memuaskan dan agak positif. Pihak pengendali boleh menambahbaik program pada masa akan datang dengan mensasarkan skor tertinggi (4) bagi kesemua aspek dalam kalangan kesemua peserta (100%). 
+
+*Kepuasan Program Mengikut Pengisian*
+
+Tahap persetujuan kepuasan peserta mengikut pengisian program di ukur berdasarkan  perkara-perkara seperti di Jadual 7. 
+
+**Jadual 7:Taburan skor Kepuasan Peserta Mengikut Pengisian Program**
+
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:1.0pt solid #A6A6A6;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;" rowspan="2">
+                &nbsp;
+            </td>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:none;border-right-style:solid;border-top-style:solid;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;" rowspan="2">
+                <strong>Purata skor</strong>
+            </td>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:none;border-right-style:solid;border-top-style:solid;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;width:147.85pt;" colspan="4">
+                <strong>Bilangan&nbsp;</strong>
+            </td>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:none;border-right-style:solid;border-top-style:solid;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:164.0pt;" colspan="4">
+                <strong>Peratus</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:40.4pt;">
+                <strong>1</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:30.45pt;">
+                <strong>2</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:41.05pt;">
+                <strong>3</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:35.95pt;">
+                <strong>4</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:36.4pt;">
+                <strong>1</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:42.55pt;">
+                <strong>2</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:41.6pt;">
+                <strong>3</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;width:43.45pt;">
+                <strong>4</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.85pt;padding:0cm 5.4pt;vertical-align:bottom;width:474.65pt;" colspan="10">
+                <strong>Tajuk 1: Trans minda @ Potensi</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;">
+                Penceramah
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;">
+                3.58
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:40.4pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:30.45pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.05pt;">
+                21
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.95pt;">
+                35
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:36.4pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.6pt;">
+                36.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:43.45pt;">
+                61.4
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;">
+                Aktiviti
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;">
+                3.65
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:40.4pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:30.45pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.05pt;">
+                17
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.95pt;">
+                39
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:36.4pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.6pt;">
+                29.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:43.45pt;">
+                68.4
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;">
+                Manfaat
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;">
+                3.65
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:40.4pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:30.45pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.05pt;">
+                17
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.95pt;">
+                39
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:36.4pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.6pt;">
+                29.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:43.45pt;">
+                68.4
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:474.65pt;" colspan="10">
+                <strong>Tajuk 2: Trans minda @ Keibubapaan Positif</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;">
+                Penceramah
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;">
+                3.67
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:40.4pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:30.45pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.05pt;">
+                16
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.95pt;">
+                40
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:36.4pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.6pt;">
+                28.1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:43.45pt;">
+                70.2
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;">
+                Aktiviti
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;">
+                3.65
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:40.4pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:30.45pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.05pt;">
+                17
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.95pt;">
+                39
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:36.4pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.6pt;">
+                29.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:43.45pt;">
+                68.4
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;">
+                Manfaat
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;">
+                3.67
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:40.4pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:30.45pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.05pt;">
+                16
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.95pt;">
+                40
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:36.4pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.6pt;">
+                28.1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:43.45pt;">
+                70.2
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:474.65pt;" colspan="10">
+                <strong>Tajuk 3: Trans minda @ Pengurusan Kewangan</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;">
+                Penceramah
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;">
+                3.61
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:40.4pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:30.45pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.05pt;">
+                19
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.95pt;">
+                37
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:36.4pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.6pt;">
+                33.3
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:43.45pt;">
+                64.9
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;">
+                Aktiviti
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;">
+                3.60
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:40.4pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:30.45pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.05pt;">
+                20
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.95pt;">
+                36
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:36.4pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.6pt;">
+                35.1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:43.45pt;">
+                63.2
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:106.1pt;">
+                Manfaat
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:2.0cm;">
+                3.61
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:40.4pt;">
+                1
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:30.45pt;">
+                0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.05pt;">
+                19
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:35.95pt;">
+                37
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:36.4pt;">
+                1.8
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:42.55pt;">
+                0.0
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:41.6pt;">
+                33.3
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:43.45pt;">
+                64.9
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+> **Ulasan:**
+> Secara keseluruhannya, reaksi peserta program  mengikut pengisian program adalah memuaskan dan agak positif bagi ketiga-tiga sesi ceramah. Pihak pengendali boleh menambahbaik program pada masa akan datang dengan mensasarkan skor tertinggi (4) bagi kesemua aspek dalam kalangan kesemua peserta (100%). 
+
+
+*Tahap pembelajaran*
+
+Skor pembelajaran peserta program diukur dengan menggunakan 5-skala Likert di mana skala 1 bermaksud Sangat Lemah atau Sangat Rendah dan skala 5 bermaksud Sangat Baik atau Sangat Tinggi. Setiap peserta dikehendaki untuk memberikan penilaian mereka pada sebelum dan selepas menghadiri program tersebut.
+
+**Jadual 8: Taburan Skor Pembelajaran Sebelum dan Selepas Menghadiri Program**
+
+<table style=";">
+    <tbody>
+        <tr>
+            <td style="border:1.0pt solid #A6A6A6;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:215.4pt;" rowspan="2">
+                <strong>&nbsp;</strong>
+            </td>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:none;border-right-style:solid;border-top-style:solid;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:125.0pt;" colspan="2">
+                <strong>Purata skor</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:65.4pt;">
+                <strong>Sebelum</strong>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:59.6pt;">
+                <strong>Selepas</strong>
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:215.4pt;">
+                Tahap Motivasi
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:65.4pt;">
+                3.42
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:59.6pt;">
+                4.67
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:215.4pt;">
+                <i>Tahap Pengetahuan&nbsp;</i>
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:65.4pt;">
+                &nbsp;
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:59.6pt;">
+                &nbsp;
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:215.4pt;">
+                Kemahiran Keibubapaan Positif
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:65.4pt;">
+                3.32
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:59.6pt;">
+                4.70
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:215.4pt;">
+                Ilmu pengurusan kewangan keluarga
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:65.4pt;">
+                3.51
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:59.6pt;">
+                4.75
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:215.4pt;">
+                Tahap Keyakinan
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:65.4pt;">
+                3.56
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:59.6pt;">
+                4.68
+            </td>
+        </tr>
+        <tr>
+            <td style="border-bottom-style:solid;border-color:#A6A6A6;border-left-style:solid;border-right-style:solid;border-top-style:none;border-width:1.0pt;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:215.4pt;">
+                Tahap Komitmen
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:65.4pt;">
+                3.68
+            </td>
+            <td style="border-bottom:1.0pt solid #A6A6A6;border-left-style:none;border-right:1.0pt solid #A6A6A6;border-top-style:none;height:12.75pt;padding:0cm 5.4pt;vertical-align:bottom;width:59.6pt;">
+                4.67
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+> **Ulasan:**
+> Secara keseluruhannya, peningkatan terhadap tahap motivasi (sebelum: 3.4; selepas: 4.7), pengetahuan kemahiran keibubapaan positif (sebelum: 3.7; selepas: 4.8), pengetahuan ilmu pengurusan kewangan keluarga (sebelum: 3.9; selepas: 4.8), keyakinan (sebelum: 3.8; selepas: 4.8) dan komitmen (sebelum: 3.8; selepas: 4.8) peserta program adalah ketara lebih baik selepas mereka selesai hadiri program ini. Secara keseluruhannya, program ini berjaya meningkatkan tahap pembelajaran peserta. 
+
+### Hasil Penilaian Keberkesanan Program
+
+Data akan mula dikutip selepas 2 bulan dari tarikh program. Hasil penilaian akan dilaporkan kemudian. 
+
